@@ -173,4 +173,30 @@ Thebes Academy University, Maadi
 - **Nationality:** Egyptian.
 - **Military Status:** Finished.
 
----
+## Frameworks
+
+1. **UIKit:**
+   - Used for building user interfaces in iOS applications, including managing views, animations, and user interactions.
+
+2. **SwiftUI:**
+   - Employed for building modern and declarative user interfaces using Swift, offering a more streamlined and interactive development experience.
+
+3. **CoreData:**
+   - Utilized for managing local data storage and persisting user preferences in iOS applications.
+
+4. **CoreAnimation:**
+   - Applied for creating smooth and visually appealing animations and transitions within the user interface.
+
+5. **CoreLocation and MapKit:**
+   - Integrated to provide location-based services and map functionalities in applications.
+
+6. **Alamofire:**
+   - Incorporated for handling network requests and simplifying the networking layer in iOS applications.
+
+7. **Firebase:**
+   - Leveraged for various services, including real-time database, authentication, and cloud messaging, to enhance the functionality and user experience of applications.
+
+8. **RxSwift and RxCocoa:**
+   - Implemented to bring reactive programming principles to iOS development, facilitating the handling of asynchronous events and data streams.
+
+These frameworks have played a crucial role in the development of a diverse range of applications, from utility and lifestyle apps to projects involving complex user interfaces and data management. My proficiency in these frameworks reflects my commitment to staying updated with the latest technologies and utilizing them to deliver robust and innovative iOS solutions.
