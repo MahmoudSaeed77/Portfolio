@@ -33,18 +33,82 @@ Passionate and experienced iOS Developer with a strong background in Swift (5 ye
 
 ## Projects
 
-### [جاي - JAY](https://apps.apple.com/us/app/id6463870105?platform=iphone)
-- Description: [Add a brief description]
+1. **JAY**
+   - App Link: [JAY on the App Store](https://apps.apple.com/us/app/id6463870105?platform=iphone)
 
-### [شريك جاي - JAY partner](https://apps.apple.com/us/app/id6463870723?platform=iphone)
-- Description: [Add a brief description]
+2. **JAY Partner**
+   - App Link: [JAY Partner on the App Store](https://apps.apple.com/us/app/id6463870723?platform=iphone)
 
-### [ايزي كار - easycar](https://apps.apple.com/us/app/id6444856093?platform=iphone)
-- Description: [Add a brief description]
+3. **Easycar**
+   - App Link: [Easycar on the App Store](https://apps.apple.com/us/app/id6444856093?platform=iphone)
 
-### [ايزى كار - Easy car Driver](https://apps.apple.com/us/app/id6444856127?platform=iphone)
-- Description: [Add a brief description]
+4. **Easy Car Driver**
+   - App Link: [Easy Car Driver on the App Store](https://apps.apple.com/us/app/id6444856127?platform=iphone)
 
+5. **Medical Shop (ميديكال شوب)**
+   - App Link: [Medical Shop on the App Store](https://apps.apple.com/us/app/id1663672796?platform=iphone)
+
+6. **Medical Shop Store**
+   - App Link: [Medical Shop Store on the App Store](https://apps.apple.com/us/app/id1663672549?platform=iphone)
+
+7. **Medical Shop (Eng)**
+   - App Link: [Medical Shop (Eng) on the App Store](https://apps.apple.com/us/app/id1663671930?platform=iphone)
+
+8. **Lay6ofk (لايطوفك)**
+   - App Link: [Lay6ofk on the App Store](https://apps.apple.com/us/app/id1628115760?platform=iphone)
+
+9. **Souq Al-Ruwaie (سوق الرويعي)**
+   - App Link: [Souq Al-Ruwaie on the App Store](https://apps.apple.com/us/app/id6444089341?platform=iphone)
+
+10. **Saving World (عالم الادخار)**
+    - App Link: [Saving World on the App Store](https://apps.apple.com/eg/app/id1631848557?platform=iphone)
+
+11. **Home Tech (هوم تك)**
+    - App Link: [Home Tech on the App Store](https://apps.apple.com/us/app/id6446062999?platform=iphone)
+
+12. **Stop Car Wash (غسيل ستوب)**
+    - App Link: [Stop Car Wash on the App Store](https://apps.apple.com/us/app/id6447292581?platform=iphone)
+
+13. **Ninety**
+    - App Link: [Ninety on the App Store](https://apps.apple.com/us/app/id6447584901?platform=iphone)
+
+14. **Egypt Audio Guide (EAG)**
+    - App Link: [Egypt Audio Guide on the App Store](https://apps.apple.com/us/app/id1598766415?platform=iphone)
+
+15. **Noor Khoy (نور خوي)**
+    - App Link: [Noor Khoy on the App Store](https://apps.apple.com/eg/app/id1570127609?platform=iphone)
+
+16. **Noor Khoy (عامل)**
+    - App Link: [Noor Khoy (عامل) on the App Store](https://apps.apple.com/eg/app/id1563731776?platform=iphone)
+
+17. **Roaya (رؤية)**
+    - App Link: [Roaya on the App Store](https://apps.apple.com/kr/app/id1592078901?platform=iphone)
+
+18. **IDC-Industrial Development Center (مركز التنمية الصناعية)**
+    - App Link: [IDC on the App Store](https://apps.apple.com/mx/app/id1536328270?platform=iphone)
+
+19. **MEDEX (ميديكس)**
+    - App Link: [MEDEX on the App Store](https://apps.apple.com/eg/app/id1635333141?platform=iphone)
+
+20. **Al-Kawthar for Haj and Umrah (الكوثر للحج و العمرة)**
+    - App Link: [Al-Kawthar on the App Store](https://apps.apple.com/eg/app/id1474062693?platform=iphone)
+
+21. **Abdulhadi bin Ruwizan Haj Company (شركة عبد الهادي بن رويزن للحج)**
+    - App Link: [Abdulhadi bin Ruwizan on the App Store](https://apps.apple.com/eg/app/id1553678753?platform=iphone)
+
+22. **Al-Olayani for Internal Pilgrims (شركة العلياني لحجاج الداخل)**
+    - App Link: [Al-Olayani on the App Store](https://apps.apple.com/us/app/id1404038496?platform=iphone)
+
+23. **My
+
+ Designer**
+    - App Link: [My Designer on the App Store](https://apps.apple.com/eg/app/id1465704827?platform=iphone)
+
+24. **Al-Moltaqa Al-Arabi**
+    - App Link: [Al-Moltaqa Al-Arabi on the App Store](https://apps.apple.com/us/app/id1600694962?platform=iphone)
+
+25. **Srwiss (سرويس)**
+    - App Link: [Srwiss on the App Store](https://apps.apple.com/eg/app/id1606897262?platform=iphone)
 
 
 ## Skills Summary
