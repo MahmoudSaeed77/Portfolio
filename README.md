@@ -1,6 +1,5 @@
 # Portfolio
 This represents my iOS development resume.
-Certainly! Below is a well-formatted README file for your GitHub portfolio. Feel free to adjust the formatting or content as needed.
 
 ---
 
@@ -99,3 +98,5 @@ Thebes Academy University, Maadi
 - **Marital status:** Married.
 - **Nationality:** Egyptian.
 - **Military Status:** Finished.
+
+---
