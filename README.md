@@ -99,9 +99,7 @@ Passionate and experienced iOS Developer with a strong background in Swift (5 ye
 22. **Al-Olayani for Internal Pilgrims (شركة العلياني لحجاج الداخل)**
     - App Link: [Al-Olayani on the App Store](https://apps.apple.com/us/app/id1404038496?platform=iphone)
 
-23. **My
-
- Designer**
+23. **My Designer**
     - App Link: [My Designer on the App Store](https://apps.apple.com/eg/app/id1465704827?platform=iphone)
 
 24. **Al-Moltaqa Al-Arabi**
