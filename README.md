@@ -17,6 +17,12 @@ Passionate and experienced iOS Developer with a strong background in Swift (5 ye
 
 ## Professional Experience
 
+### Full time Senior iOS Developer | DeshNDezz Company | Remotely | Jan 2024 – Present!
+- Developed and maintained a high-quality iOS application using Swift, Combine, UIKit
+- Collaborated with cross-functional teams to design, implement, and test new features.
+- Participated in code reviews, ensuring code quality and adherence to best practices.
+- Optimized app performance by identifying and resolving bottlenecks in memory and CPU usage.
+
 ### iOS Developer | Tech Soft Company | Giza, October | March 2022 - Present
 - Developed and maintained high-quality iOS applications using Swift and UIKit.
 - Collaborated with cross-functional teams to design, implement, and test new features.
@@ -33,79 +39,82 @@ Passionate and experienced iOS Developer with a strong background in Swift (5 ye
 
 ## Projects
 
-1. **JAY**
+1. **Jobs In Saudi**
+   - App Link: [JAY on the App Store](https://apps.apple.com/us/app/jobs-in-saudi/id6504855590)
+   
+2. **JAY**
    - App Link: [JAY on the App Store](https://apps.apple.com/us/app/id6463870105?platform=iphone)
-
-2. **JAY Partner**
+  
+3. **JAY Partner**
    - App Link: [JAY Partner on the App Store](https://apps.apple.com/us/app/id6463870723?platform=iphone)
 
-3. **Easycar**
+4. **Easycar**
    - App Link: [Easycar on the App Store](https://apps.apple.com/us/app/id6444856093?platform=iphone)
 
-4. **Easy Car Driver**
+5. **Easy Car Driver**
    - App Link: [Easy Car Driver on the App Store](https://apps.apple.com/us/app/id6444856127?platform=iphone)
 
-5. **Medical Shop (ميديكال شوب)**
+6. **Medical Shop (ميديكال شوب)**
    - App Link: [Medical Shop on the App Store](https://apps.apple.com/us/app/id1663672796?platform=iphone)
 
-6. **Medical Shop Store**
+7. **Medical Shop Store**
    - App Link: [Medical Shop Store on the App Store](https://apps.apple.com/us/app/id1663672549?platform=iphone)
 
-7. **Medical Shop (Eng)**
+8. **Medical Shop (Eng)**
    - App Link: [Medical Shop (Eng) on the App Store](https://apps.apple.com/us/app/id1663671930?platform=iphone)
 
-8. **Lay6ofk (لايطوفك)**
+9. **Lay6ofk (لايطوفك)**
    - App Link: [Lay6ofk on the App Store](https://apps.apple.com/us/app/id1628115760?platform=iphone)
 
-9. **Souq Al-Ruwaie (سوق الرويعي)**
+10. **Souq Al-Ruwaie (سوق الرويعي)**
    - App Link: [Souq Al-Ruwaie on the App Store](https://apps.apple.com/us/app/id6444089341?platform=iphone)
 
-10. **Saving World (عالم الادخار)**
+11. **Saving World (عالم الادخار)**
     - App Link: [Saving World on the App Store](https://apps.apple.com/eg/app/id1631848557?platform=iphone)
 
-11. **Home Tech (هوم تك)**
+12. **Home Tech (هوم تك)**
     - App Link: [Home Tech on the App Store](https://apps.apple.com/us/app/id6446062999?platform=iphone)
 
-12. **Stop Car Wash (غسيل ستوب)**
+13. **Stop Car Wash (غسيل ستوب)**
     - App Link: [Stop Car Wash on the App Store](https://apps.apple.com/us/app/id6447292581?platform=iphone)
 
-13. **Ninety**
+14. **Ninety**
     - App Link: [Ninety on the App Store](https://apps.apple.com/us/app/id6447584901?platform=iphone)
 
-14. **Egypt Audio Guide (EAG)**
+15. **Egypt Audio Guide (EAG)**
     - App Link: [Egypt Audio Guide on the App Store](https://apps.apple.com/us/app/id1598766415?platform=iphone)
 
-15. **Noor Khoy (نور خوي)**
+16. **Noor Khoy (نور خوي)**
     - App Link: [Noor Khoy on the App Store](https://apps.apple.com/eg/app/id1570127609?platform=iphone)
 
-16. **Noor Khoy (عامل)**
+17. **Noor Khoy (عامل)**
     - App Link: [Noor Khoy (عامل) on the App Store](https://apps.apple.com/eg/app/id1563731776?platform=iphone)
 
-17. **Roaya (رؤية)**
+18. **Roaya (رؤية)**
     - App Link: [Roaya on the App Store](https://apps.apple.com/kr/app/id1592078901?platform=iphone)
 
-18. **IDC-Industrial Development Center (مركز التنمية الصناعية)**
+19. **IDC-Industrial Development Center (مركز التنمية الصناعية)**
     - App Link: [IDC on the App Store](https://apps.apple.com/mx/app/id1536328270?platform=iphone)
 
-19. **MEDEX (ميديكس)**
+20. **MEDEX (ميديكس)**
     - App Link: [MEDEX on the App Store](https://apps.apple.com/eg/app/id1635333141?platform=iphone)
 
-20. **Al-Kawthar for Haj and Umrah (الكوثر للحج و العمرة)**
+21. **Al-Kawthar for Haj and Umrah (الكوثر للحج و العمرة)**
     - App Link: [Al-Kawthar on the App Store](https://apps.apple.com/eg/app/id1474062693?platform=iphone)
 
-21. **Abdulhadi bin Ruwizan Haj Company (شركة عبد الهادي بن رويزن للحج)**
+22. **Abdulhadi bin Ruwizan Haj Company (شركة عبد الهادي بن رويزن للحج)**
     - App Link: [Abdulhadi bin Ruwizan on the App Store](https://apps.apple.com/eg/app/id1553678753?platform=iphone)
 
-22. **Al-Olayani for Internal Pilgrims (شركة العلياني لحجاج الداخل)**
+23. **Al-Olayani for Internal Pilgrims (شركة العلياني لحجاج الداخل)**
     - App Link: [Al-Olayani on the App Store](https://apps.apple.com/us/app/id1404038496?platform=iphone)
 
-23. **My Designer**
+24. **My Designer**
     - App Link: [My Designer on the App Store](https://apps.apple.com/eg/app/id1465704827?platform=iphone)
 
-24. **Al-Moltaqa Al-Arabi**
+25. **Al-Moltaqa Al-Arabi**
     - App Link: [Al-Moltaqa Al-Arabi on the App Store](https://apps.apple.com/us/app/id1600694962?platform=iphone)
 
-25. **Srwiss (سرويس)**
+26. **Srwiss (سرويس)**
     - App Link: [Srwiss on the App Store](https://apps.apple.com/eg/app/id1606897262?platform=iphone)
 
 
@@ -177,26 +186,29 @@ Thebes Academy University, Maadi
 
 1. **UIKit:**
    - Used for building user interfaces in iOS applications, including managing views, animations, and user interactions.
+  
+2. **Combine:**
+   - A reactive programming framework used for handling asynchronous events and data streams, allowing better management of publishers, subscribers, and bindings between UI and data.
 
-2. **SwiftUI:**
+3. **SwiftUI:**
    - Employed for building modern and declarative user interfaces using Swift, offering a more streamlined and interactive development experience.
 
-3. **CoreData:**
+4. **CoreData:**
    - Utilized for managing local data storage and persisting user preferences in iOS applications.
 
-4. **CoreAnimation:**
+5. **CoreAnimation:**
    - Applied for creating smooth and visually appealing animations and transitions within the user interface.
 
-5. **CoreLocation and MapKit:**
+6. **CoreLocation and MapKit:**
    - Integrated to provide location-based services and map functionalities in applications.
 
-6. **Alamofire:**
+7. **Alamofire:**
    - Incorporated for handling network requests and simplifying the networking layer in iOS applications.
 
-7. **Firebase:**
+8. **Firebase:**
    - Leveraged for various services, including real-time database, authentication, and cloud messaging, to enhance the functionality and user experience of applications.
 
-8. **RxSwift and RxCocoa:**
+9. **RxSwift and RxCocoa:**
    - Implemented to bring reactive programming principles to iOS development, facilitating the handling of asynchronous events and data streams.
 
 These frameworks have played a crucial role in the development of a diverse range of applications, from utility and lifestyle apps to projects involving complex user interfaces and data management. My proficiency in these frameworks reflects my commitment to staying updated with the latest technologies and utilizing them to deliver robust and innovative iOS solutions.
