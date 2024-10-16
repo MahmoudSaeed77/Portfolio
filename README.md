@@ -40,7 +40,7 @@ Passionate and experienced iOS Developer with a strong background in Swift (5 ye
 ## Projects
 
 1. **Jobs In Saudi**
-   - App Link: [JAY on the App Store](https://apps.apple.com/us/app/jobs-in-saudi/id6504855590)
+   - App Link: [Jobs In Saudi on the App Store](https://apps.apple.com/us/app/jobs-in-saudi/id6504855590)
    
 2. **JAY**
    - App Link: [JAY on the App Store](https://apps.apple.com/us/app/id6463870105?platform=iphone)
